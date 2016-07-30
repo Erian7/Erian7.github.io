@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  background-color: #3c3c3c;
+  font-family: 'Reem Kufi', sans-serif;
+  color: #fff;
+}
+.name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
+.name h1 {
+  font-size: 36px;
+  font-weight: normal;
+}
+.name p {
+  font-size: 30px;
+}
+.info p {
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+}
+.social-nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.social-nav img {
+  width: 32px;
+}
+.social {
+  padding: 12px;
+}
