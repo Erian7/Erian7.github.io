@@ -1,8 +1,12 @@
 body {
   margin: 0;
-  background-color: #3c3c3c;
   font-family: 'Reem Kufi', sans-serif;
   color: #fff;
+  background: #625b5d;
+  background: -webkit-radial-gradient(#625b5d, #4f494b, #3b3639);
+  background: -o-radial-gradient(#625b5d, #4f494b, #3b3639);
+  background: -moz-radial-gradient(#625b5d, #4f494b, #3b3639);
+  background: radial-gradient(#625b5d, #4f494b, #3b3639);
 }
 .name {
   display: flex;
