@@ -2,18 +2,26 @@ body {
   margin: 0;
   font-family: 'Reem Kufi', sans-serif;
   color: #fff;
+  height: 100vh;
   background: #625b5d;
   background: -webkit-radial-gradient(#625b5d, #4f494b, #3b3639);
   background: -o-radial-gradient(#625b5d, #4f494b, #3b3639);
   background: -moz-radial-gradient(#625b5d, #4f494b, #3b3639);
   background: radial-gradient(#625b5d, #4f494b, #3b3639);
 }
+a {
+  text-decoration: none;
+  color: #fff;
+}
+a:hover {
+  color: 	#DF00FF;
+}
 .name {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 85vh;
+  height: 65vh;
 }
 .name h1 {
   font-size: 36px;
@@ -22,10 +30,27 @@ body {
 .name p {
   font-size: 30px;
 }
+.info {
+  position: absolute;;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+}
 .info p {
   font-size: 18px;
   padding: 10px;
   text-align: center;
+}
+@media (min-width: 680px) {
+  .info p {
+    width: 60%;
+  }
+}
+.info a {
+  border-bottom: 1px dashed #fff;
+}
+.info a:hover {
+  border-bottom: none;
 }
 .social-nav {
   display: flex;
