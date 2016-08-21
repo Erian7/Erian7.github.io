@@ -39,6 +39,6 @@ $on-laptop:        800px;
 @import "minima";
 
 // Imports sass files.
-@import "mixins.scss";
-@import "base.scss";
-@import "frontpage.scss";
+@import "mixins";
+@import "base";
+@import "frontpage";
