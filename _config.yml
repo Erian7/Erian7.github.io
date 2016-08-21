@@ -27,7 +27,7 @@ github_username:  Erian7
 # Build settings
 markdown: kramdown
 theme: minima
-highlighter: pygments
+highlighter: rouge
 defaults:
   -
     scope:
