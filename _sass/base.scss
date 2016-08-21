@@ -1,0 +1,59 @@
+$dark: #424242;
+$white: #FAFAFA;
+
+
+.blog-body {
+  background-color: $dark;
+  color: $white;
+  &.footer {
+    color: $white;
+  }
+}
+
+.site-title {
+  &, &:visited {
+    color: $white;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  &:hover {
+    color: #DF00FF;
+  }
+  &:visited {
+    color: $white;
+  }
+}
+
+.page-content {
+  a {
+    border-bottom: 1px dashed $white;
+    &:hover {
+      text-decoration: none;
+      border-bottom: 1px solid transparent;
+    }
+  }
+}
+
+.site-footer {
+  a {
+    text-decoration: none;
+    color: $white;
+    &:visited {
+      color: $white;
+    }
+    &:hover {
+      border-bottom: 1px solid transparent;
+      color: #DF00FF;
+    }
+    span:nth-child(2) {
+      border-bottom: 1px dashed $white;
+    }
+  }
+}
+
+.post-link {
+  display: inline-block;
+}

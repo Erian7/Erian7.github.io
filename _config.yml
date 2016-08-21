@@ -19,7 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Este es mi blog personal, un lugar donde comparto la mayoría de lo que escribo,
   no espere nada de esto, por favor. Este sitio, por el momento, también es un
   garabato y está en construcción.
-baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://erian7.github.io" # the base hostname & protocol for your site
 twitter_username: EdgarBarrantes
 github_username:  Erian7
