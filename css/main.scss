@@ -37,6 +37,8 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// Imports sass files.
 @import "mixins.scss";
 @import "base.scss";
 @import "frontpage.scss";
