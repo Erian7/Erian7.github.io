@@ -15,7 +15,7 @@ Soy una persona. Común, menos silvestre de lo que quisiera. Yo me despierto y m
 
 Esto lo escribo acá, realmente, lo escribo para mi. Pobre del que esté leyendo si ese alguien no soy yo.
 
-Creo que el escribir siempre con la idea de que quien va a escuchar estas palabras en su cabeza será mi (pareja, terapeuta, o quien sea que tenga mucha importancia en mi vida en el momento) tergiversa un poco lo que quiero decir realmente.
+Creo que el escribir siempre con la idea de que quien va a escuchar estas palabras en su cabeza (pareja, terapeuta, o quien sea que tenga mucha importancia en mi vida en el momento) tergiversa un poco lo que quiero decir realmente.
 
 Sin embargo, creo que es importante que lo que digo pueda ser entendido por alguien más, así que para mi es importante poder personificar al lector, al que escucha estas palabras. Pero debo empezar a cambiar el foco, debería escribir para mi, y partir de ahí podría crear realmente. Dejarme ser libre y crear. Que lo que yo sea quede esculpido en lo que digo, porque al fin y al cabo son cosas que me quiero contar a mi mismo. Eso es lo que quiero hacer. Y a partir de ahora dejaré de llamarlos "autoregistros", este será el último.
 
