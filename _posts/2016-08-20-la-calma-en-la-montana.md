@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La fiesta en el bosque.
+title: La calma en la montaña.
 date: '2016-08-24 17:14:04 -0600'
 excerpt: Y fue feliz.
 ---
