@@ -15,7 +15,7 @@ Me monté en una hoja que iba pasando en la alcantarilla, y fui al bosque de la 
 
 Allí conocí a amigos y conocidos de mi conocido, y así. Entre ellos, a la hormiga más encantadora, a un sabio conejo, a un orgulloso pavo real, a un escurridizo zarigüella, y a un javalí tranquilo.
 
-Hablamos, bebimos, ingerimos las hojas. Cuando llegué, tres canciones que sonaron fueros de las de mi repertorio regular, incluyendo una que creí escuchar nunca puesta por otro.
+Hablamos, bebimos, ingerimos las hojas. Cuando llegué, tres de las canciones que sonaron fueron de las de mi repertorio regular, incluyendo una que creí escuchar nunca puesta por otra persona.
 
 La conversación fue interesante, las bebidas fueron relajantes, y las hojas, las hojas también. Enseñé un escrito en el que he trabajé, me enseñaron un libro que escribieron. Comimos bananas, frutillas, melón. Y nos reímos, sí que tenía ganas de reírme así, con casi no conocidos. Me gustó mucho, y me fui del lugar, en el momento en el que quise.
 
